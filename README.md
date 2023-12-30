@@ -1,6 +1,6 @@
 # space_shooter
 
-A new Flutter project.
+A classic top-down shooting game developed following Flutter Flame tutorials.
 
 ## Getting Started
 
